@@ -1,0 +1,7 @@
+Ok so I decided the best route was to take my first homework and do something similer to what I did with roll for shoes feeding instructions, the lesson, and user input into it.
+I also both thought it was fun and thought it might become more coherent if it had a character to be so I went with darth vader again.
+I had to delete the code in the lesson because it hit the token limit having it in there but re added the iris code and told it to use that data to help.
+I added the 3 png files given out so it could use it in explations. It really likes to get confused and start over and it will not stop going over pytorch
+
+Talking with harley the idea to break it into multiple bots with their own part of the lesson to get past the token limit came up and it was instresting because this could mean that it gets stuck less and has more of the lesson and its guidance.
+I decided to try this and while it is rough and buggy it does seem to get past the token limit which breaks when you give one bot all of the .ipynb file
